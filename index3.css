@@ -1,0 +1,108 @@
+html {
+  width: 100%;
+  height: 100%;
+}
+body {
+  width: 98%;
+  height: 97%;
+  background-image: url("hero.jpeg");
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+div0.\30 {
+  width: 95%;
+  height: 95%;
+}
+
+div0sub.sub {
+  width: 95%;
+  height: 95%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+div1.\31 {
+  width: 35%;
+  height: 35%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 30px;
+  background-color: rgb(212, 212, 208);
+  align-items: center;
+  border-radius: 15px;
+}
+button.btn1 {
+  width: 100px;
+  height: 50px;
+  border: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-style: groove;
+  border-color: blueviolet;
+  cursor: pointer;
+  border-radius: 7px;
+}
+div5.\35 {
+  width: 100%;
+  height: 100%;
+  /* display: none; */
+}
+
+.d-none {
+  display: none;
+}
+.d-block {
+  display: block;
+  width: 100%;
+  height: 100%;
+}
+div5sub.\35 sub {
+  width: 100%;
+  height: 100%;
+  background: rgba(47, 47, 146, 0.281);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+div6.\36 {
+  width: 50%;
+  height: 50%;
+  background: blanchedalmond;
+  display: flex;
+  flex-direction: row-reverse;
+  border-radius: 15px;
+}
+div7.\37 {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  width: 100%;
+  height: 100%;
+  align-items: center;
+}
+button.btn2 {
+  width: 5%;
+  height: 10%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+  border-radius: 5px;
+  border: none;
+  border-style: solid;
+  border-color: rgba(236, 130, 81, 0.767);
+}
+button.btn2:hover {
+  background-color: rgb(142, 121, 216);
+}
+button:hover {
+  background-color: rgba(224, 123, 219, 0.884);
+}
